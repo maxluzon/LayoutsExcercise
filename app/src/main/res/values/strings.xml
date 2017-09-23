@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SecondExercise</string>
+    <string name="app_copyright">Created By: Max Luzon, 2017</string>
+
+    <string name="home_linear_layout_vertical_text">Linear Layout Vertical</string>
+    <string name="home_linear_layout_horizontal_text">Linear Layout Horizontal</string>
+    <string name="home_relative_layout_text">Relative Layout</string>
+    <string name="home_table_layout_text">Table Layout</string>
+    <string name="home_frame_layout_text">Frame Layout</string>
+    <string name="home_list_view_text">List View</string>
+    <string name="home_grid_view_text">Grid View</string>
+    <string name="home_list_view_users_text">View Users</string>
+
+    <string name="linear_vertical_title">Linear Layout</string>
+    <string name="linear_vertical_full_name">Tyrion Lannister</string>
+    <string name="linear_vertical_organization_name">Casterly Rock</string>
+    <string name="linear_vertical__welcome_quote">Nunca Olvides lo que eres, por que desde luego el mundo nunca lo va a olvidar, Conviertelo en tu mejor arma, asi nunca sera tu punto debil, usalo como armadura y nadie podra usarlo para herirte</string>
+
+</resources>
